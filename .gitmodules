@@ -1,0 +1,3 @@
+[submodule "library/kbd"]
+	path = library/kbd
+	url = https://github.com/foostan/kbd.git
