@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\SkeletonKBD\Keyboards\SkeletonNumPad\SkeletonNumPad.kicad_sch</source>
-    <date>2022/02/17 19:18:01</date>
+    <date>2022/02/22 23:39:42</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -377,242 +377,157 @@
       <tstamps>16b11208-65c7-49e9-8c3b-f66751ee0727</tstamps>
     </comp>
     <comp ref="LED1">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>167ab8f3-28e1-4652-9028-f170a302c911</tstamps>
+      <tstamps>0d4a528e-b31d-453e-afef-d3240f941de5</tstamps>
     </comp>
     <comp ref="LED2">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b0e67dfa-f869-4758-ba1b-c734f3ef97d6</tstamps>
+      <tstamps>1c5ce44e-603d-487b-b527-14e5889da608</tstamps>
     </comp>
     <comp ref="LED3">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d71d4895-59fc-4863-833b-3fe59489ff82</tstamps>
+      <tstamps>094b1e02-c7c0-4b05-9659-360b2333aa79</tstamps>
     </comp>
     <comp ref="LED4">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>966871df-eba8-4a35-b09d-9724d36d0dc3</tstamps>
+      <tstamps>b8d1d563-c5df-463a-ae8f-f6b9b8ed1574</tstamps>
     </comp>
     <comp ref="LED5">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b2df31ea-f8d8-459e-bfc0-eb9493f3925c</tstamps>
+      <tstamps>86ae48e0-4b11-475c-9737-f25e9aa13487</tstamps>
     </comp>
     <comp ref="LED6">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>14098c4e-b147-4ee6-83e1-e04d21d92756</tstamps>
+      <tstamps>0a9a0ad9-c372-4953-b057-940548b3f40d</tstamps>
     </comp>
     <comp ref="LED7">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3d79d1da-bae3-4570-a4c8-5701a74e71e3</tstamps>
+      <tstamps>d636f59d-5445-4e77-abec-26004092c5c0</tstamps>
     </comp>
     <comp ref="LED8">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>79ebd38d-8671-4a0f-8c69-f8aae9ea9a77</tstamps>
+      <tstamps>84703738-cb72-4d2f-be6d-baa7b54b3d10</tstamps>
     </comp>
     <comp ref="LED9">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>5bdd1992-6afd-49b5-be69-1b5cff462f84</tstamps>
+      <tstamps>2d610dfd-d102-495c-b231-c5a0cd02efc6</tstamps>
     </comp>
     <comp ref="LED10">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a3db9c1b-8b39-4d6b-a561-8ff3a03577c1</tstamps>
+      <tstamps>b6b5d245-df61-4abd-8a5e-4327b4e28372</tstamps>
     </comp>
     <comp ref="LED11">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>34db1e98-a6f2-4653-b8b4-8bbe37151215</tstamps>
+      <tstamps>a466700c-2c13-41a6-b33a-e257968ca6f9</tstamps>
     </comp>
     <comp ref="LED12">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>64e805d8-f774-4103-95dc-9d7211031c60</tstamps>
+      <tstamps>80e85493-c6cf-4400-91ea-18942b5b8c30</tstamps>
     </comp>
     <comp ref="LED13">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>09e95e08-aacf-4301-942a-87e7e0105006</tstamps>
+      <tstamps>80ca1a4e-2078-444c-acdb-3aecce2c8de9</tstamps>
     </comp>
     <comp ref="LED14">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c905ea97-67a1-44a9-ad22-d979402d97e3</tstamps>
+      <tstamps>43617368-cfbb-435d-9755-30865be35974</tstamps>
     </comp>
     <comp ref="LED15">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>41ac93e6-ca14-4d82-8fed-019abfc5d23d</tstamps>
+      <tstamps>5caff35d-3652-400f-b193-e6a9dabff20d</tstamps>
     </comp>
     <comp ref="LED16">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ca17ccf5-1e9c-4ad9-acfd-a71b6a1382fe</tstamps>
+      <tstamps>24573d78-acd6-46cc-aeb3-9fe20a3d7317</tstamps>
     </comp>
     <comp ref="LED17">
-      <value>WS2812B</value>
-      <footprint>Custom:WS2812B-2020</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C965555</field>
-      </fields>
-      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965555"/>
+      <value>YS-SK6812MINI-E</value>
+      <footprint>Custom:YS-SK6812MINI-E</footprint>
+      <libsource lib="kbd" part="YS-SK6812MINI-E" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="SkeletonNumPad.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>578e4767-91d6-4471-8d06-1c42c734724c</tstamps>
+      <tstamps>61e7cee4-8d7a-4ea6-8878-eea22c895cbb</tstamps>
     </comp>
     <comp ref="R1">
       <value>5.1k</value>
@@ -1085,25 +1000,6 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="LED" part="WS2812B">
-      <description>RGB LED with integrated controller</description>
-      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
-      <footprints>
-        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">WS2812B</field>
-        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
-        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
-      </fields>
-      <pins>
-        <pin num="1" name="VDD" type="power_in"/>
-        <pin num="2" name="DOUT" type="output"/>
-        <pin num="3" name="VSS" type="power_in"/>
-        <pin num="4" name="DIN" type="input"/>
-      </pins>
-    </libpart>
     <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-M">
       <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44</description>
       <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
@@ -1193,6 +1089,18 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="kbd" part="YS-SK6812MINI-E">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">YS-SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Connector">
@@ -1200,9 +1108,6 @@
     </library>
     <library logical="Device">
       <uri>C:\Program Files\KiCad6\share\kicad\symbols\/Device.kicad_sym</uri>
-    </library>
-    <library logical="LED">
-      <uri>C:\Program Files\KiCad6\share\kicad\symbols\/LED.kicad_sym</uri>
     </library>
     <library logical="MCU_Microchip_ATmega">
       <uri>C:\Program Files\KiCad6\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>

@@ -402,8 +402,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "SkeletonNumPad.dsn",
-      "step": "",
-      "vrml": ""
+      "step": "3d/SkeletonNumPad.step",
+      "vrml": "3d/SkeletonNumPad.wrl"
     },
     "page_layout_descr_file": ""
   },
