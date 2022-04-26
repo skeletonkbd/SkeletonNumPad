@@ -1,6 +1,6 @@
 # SkeletonNumPad
 
-シンプルなNumpadです。現在、販売開始の準備中。
+シンプルなNumpadです。販売ページは[こちら](https://skeletonkbd.com/products/numpad)。
 
 ## 特徴
 - アクリル積層ケース
